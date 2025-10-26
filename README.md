@@ -224,13 +224,13 @@ Start backend and frontend servers as described in the Quick Start section.
 
 ## Contributing
 
-Contributions are welcome! Here's how you can help:
+Contributions are welcome! Here's how you can help:`
 
 1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
+2. Create a feature branch (`git checkout -b feature`/AmazingFeature`)
 3. Commit your changes (`git commit -m 'Add AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+5. Open a Pull Request`
 
 ---
 
